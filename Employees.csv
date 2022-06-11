@@ -1,6 +1,12 @@
-emp_id,emp_name,working,wage,skills
-456,George,True,323220,Python
-892,Adam,True,300030,Java
-178,Gilchrist,True,20000,Mongo db
-155,Elon,True,20000,Sql
-299,Mask,True,12000,Ruby
+emp_id,emp_name,skills
+
+456,George,Python
+
+892,Adam,Java
+
+178,Gilchrist,Mongo db
+
+155,Elon,Sql
+
+299,Mask,Ruby
+
